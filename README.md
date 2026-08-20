@@ -5,17 +5,10 @@
 <div align="center">
 
   <!-- Responsive Light/Dark Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=F5B942&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=AFCBE3">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=AFCBE3&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=14213D">
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=F5B942&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=AFCBE3"
-      width="100%"
-      alt="GitHub Profile Banner"
-    />
-  </picture>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Tanuja Patange" src="art/header-light.png">
+</picture>
 
   <br>
 
