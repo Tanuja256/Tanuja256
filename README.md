@@ -6,8 +6,8 @@
 
   <!-- Responsive Light/Dark Banner -->
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Tanuja Patange" src="art/header-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+    <img alt="Logo for Tanuja Patange" src="header-light.png">
 </picture>
 
   <br>
