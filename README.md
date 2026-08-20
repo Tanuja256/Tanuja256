@@ -10,6 +10,7 @@
     <img alt="Logo for Tanuja Patange" src="header-light.png">
 </picture>
 
+<br>
   <!-- Typing Animation -->
   <a href="https://github.com/Tanuja256">
     <img
