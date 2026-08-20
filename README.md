@@ -7,11 +7,11 @@
   <!-- Responsive Light/Dark Banner -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=F5B942&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=F8BBD0">
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=F5B942&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=AFCBE3">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=7A284B">
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=AFCBE3&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=14213D">
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=F5B942&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=F8BBD0"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=F5B942&fontAlignY=38&animation=fadeIn&desc=Code%20•%20Create%20•%20Learn%20•%20Build&descAlignY=58&descSize=18&descColor=AFCBE3"
       width="100%"
       alt="GitHub Profile Banner"
     />
@@ -20,12 +20,12 @@
   <br>
 
   <!-- Main Title -->
-  <h1>Hey there, I'm Tanu 👋</h1>
+  <h1>Hey there, I'm Tanuja 👋</h1>
 
   <!-- Typing Animation -->
   <a href="https://github.com/Tanuja256">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=750&lines=Aspiring+SDE+%7C+Full-Stack+Developer;CSE+Student+%7C+DSA+%26+MERN;Building+projects+that+solve+real+problems;Always+learning%2C+always+building+%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C7EBF&center=true&vCenter=true&width=750&lines=Aspiring+SDE+%7C+Full-Stack+Developer;CSE+Student+%7C+DSA+%26+MERN;Building+projects+that+solve+real+problems;Always+learning%2C+always+building+%F0%9F%9A%80"
       alt="Typing SVG"
     />
   </a>
@@ -33,9 +33,9 @@
   <br><br>
 
   <!-- GitHub Badges -->
-  <img src="https://img.shields.io/github/followers/Tanuja256?label=Followers&style=for-the-badge&color=EF93C4&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Tanuja256?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=0D1117" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=Tanuja256&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Tanuja256?label=Followers&style=for-the-badge&color=4C7EBF&labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Tanuja256?label=Stars&style=for-the-badge&color=AFCBE3&labelColor=0D1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Tanuja256&label=Profile%20Views&color=F5B942&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -49,7 +49,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hey! I'm Tanu 👩‍💻
+### Hey! I'm Tanuja 👩‍💻
 
 I'm a **third-year CSE student** focused on full-stack development and DSA, passionate about building things that solve real problems.
 
@@ -78,7 +78,7 @@ I enjoy turning ideas into projects, solving problems through code, and learning
 <img
   src="https://github.com/Tanuja256.png"
   width="220"
-  alt="Tanu Profile Picture"
+  alt="Tanuja Profile Picture"
 />
 
 <br><br>
@@ -125,14 +125,14 @@ I enjoy turning ideas into projects, solving problems through code, and learning
 
 <a href="https://github.com/Tanuja256/Studiora-X-tanuja">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuja256&repo=Studiora-X-tanuja&theme=transparent&hide_border=true&title_color=F5B942&text_color=F8BBD0&icon_color=EF93C4"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuja256&repo=Studiora-X-tanuja&theme=transparent&hide_border=true&title_color=F5B942&text_color=AFCBE3&icon_color=4C7EBF"
     alt="Studiora-X"
   />
 </a>
 
 <a href="https://github.com/Tanuja256/CrickRAG">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuja256&repo=CrickRAG&theme=transparent&hide_border=true&title_color=F5B942&text_color=F8BBD0&icon_color=EF93C4"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuja256&repo=CrickRAG&theme=transparent&hide_border=true&title_color=F5B942&text_color=AFCBE3&icon_color=4C7EBF"
     alt="CrickRAG"
   />
 </a>
@@ -141,14 +141,14 @@ I enjoy turning ideas into projects, solving problems through code, and learning
 
 <a href="https://github.com/Tanuja256/ml-expense-tracker">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuja256&repo=ml-expense-tracker&theme=transparent&hide_border=true&title_color=F5B942&text_color=F8BBD0&icon_color=EF93C4"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuja256&repo=ml-expense-tracker&theme=transparent&hide_border=true&title_color=F5B942&text_color=AFCBE3&icon_color=4C7EBF"
     alt="Expense Tracker"
   />
 </a>
 
 <a href="https://github.com/Tanuja256/Sales-Performance-Analysis">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuja256&repo=Sales-Performance-Analysis&theme=transparent&hide_border=true&title_color=F5B942&text_color=F8BBD0&icon_color=EF93C4"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuja256&repo=Sales-Performance-Analysis&theme=transparent&hide_border=true&title_color=F5B942&text_color=AFCBE3&icon_color=4C7EBF"
     alt="Sales Performance Analysis"
   />
 </a>
@@ -162,13 +162,13 @@ I enjoy turning ideas into projects, solving problems through code, and learning
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Tanuja256&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5B942&text_color=F8BBD0&icon_color=EF93C4&rank_icon=github&include_all_commits=true"
+  src="https://github-readme-stats.vercel.app/api?username=Tanuja256&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5B942&text_color=AFCBE3&icon_color=4C7EBF&rank_icon=github&include_all_commits=true"
   height="180"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuja256&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5B942&text_color=F8BBD0&icon_color=EF93C4"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuja256&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5B942&text_color=AFCBE3&icon_color=4C7EBF"
   height="180"
   alt="Top Languages"
 />
@@ -176,7 +176,7 @@ I enjoy turning ideas into projects, solving problems through code, and learning
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=Tanuja256&theme=transparent&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F5B942&sideLabels=F8BBD0&currStreakNum=F5B942&sideNums=F8BBD0&dates=F8BBD0"
+  src="https://streak-stats.demolab.com?user=Tanuja256&theme=transparent&hide_border=true&background=0D1117&ring=4C7EBF&fire=F5B942&currStreakLabel=F5B942&sideLabels=AFCBE3&currStreakNum=F5B942&sideNums=AFCBE3&dates=AFCBE3"
   width="75%"
   alt="GitHub Streak"
 />
@@ -190,7 +190,7 @@ I enjoy turning ideas into projects, solving problems through code, and learning
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Tanuja256&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area_color=EF93C4&area=true&hide_border=true&custom_title=Tanu%27s%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tanuja256&bg_color=0D1117&color=AFCBE3&line=4C7EBF&point=F5B942&area_color=4C7EBF&area=true&hide_border=true&custom_title=Tanuja%27s%20Contribution%20Graph"
   width="95%"
   alt="Contribution Activity Graph"
 />
@@ -235,7 +235,7 @@ Create .github/workflows/snake.yml to automatically generate the contribution sn
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tanujapatange">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4C7EBF" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:tanujapatange25@gmail.com">
@@ -245,7 +245,7 @@ Create .github/workflows/snake.yml to automatically generate the contribution sn
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/Open%20to%20Collaborations-0D1117?style=for-the-badge&labelColor=0D1117&color=EF93C4"
+  src="https://img.shields.io/badge/Open%20to%20Collaborations-0D1117?style=for-the-badge&labelColor=0D1117&color=4C7EBF"
   alt="Open to Collaborations"
 />
 
@@ -273,7 +273,7 @@ Create .github/workflows/snake.yml to automatically generate the contribution sn
 ### 💗 Thanks for visiting my profile!
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Learning%20%7C%20Keep%20Growing%20👋&fontSize=22&fontColor=0D1117&fontAlignY=65&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=waving&color=4C7EBF&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Learning%20%7C%20Keep%20Growing%20👋&fontSize=22&fontColor=0D1117&fontAlignY=65&animation=twinkling"
   width="100%"
   alt="Waving Footer"
 />
